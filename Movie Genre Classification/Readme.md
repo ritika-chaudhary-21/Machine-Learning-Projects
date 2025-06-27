@@ -20,8 +20,8 @@ This project is a machine learning-based web app that predicts the **genre(s)** 
 
 ## 📁 Dataset
 
-The dataset is from Kaggle: [IMDb Movie Genre Dataset]
-(https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb)
+The dataset is from Kaggle: IMDb Movie Genre Dataset
+-https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
 
 - **Train file**: Contains `ID ::: TITLE ::: GENRE ::: DESCRIPTION`
 - **Test file**: Contains `ID ::: TITLE ::: DESCRIPTION`
